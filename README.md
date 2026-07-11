@@ -59,25 +59,24 @@
 
 ### 🔥 Featured Projects
 
-#### 🧠 [MotivationAI — AI-Powered Customer Motivation Detection](#)
+#### 🧠 [MotivationAI — AI-Powered Customer Motivation Detection](https://github.com/Nitin-2807/MotivationAI)
 *Hackathon MVP · Next.js 15, TypeScript, FastAPI, Google Gemini*
 - Built an end-to-end full-stack platform classifying users into 6 psychographic motivation profiles in real time using Gemini AI
 - Designed an executive analytics dashboard with KPI cards, AI-generated summaries, signal explainability, and motivation-drift detection
 - Generated personalized, context-aware marketing recommendations with enriched recommendation cards
 - Built a modular FastAPI backend with REST APIs for real-time inference and analytics
 
-#### 🌿 [Crop Disease Detection using Explainable AI](#)
+#### 🌿 [Crop Disease Detection using Explainable AI](https://github.com/Nitin-2807/Crop-Disease-Detection)
 *Academic Project · TensorFlow, Keras, OpenCV, Flask*
 - Developed a CNN-based plant disease classifier with image preprocessing and augmentation to improve robustness
 - Integrated Grad-CAM visualization for explainable, interpretable predictions
 - Built a Flask application for real-time disease prediction from uploaded images
 
-#### 🔋 [Battery Health Prediction System](#)
+#### 🔋 [Battery Health Prediction System](https://github.com/Nitin-2807/battery_health)
 *Academic Project · Python, Scikit-learn, FastAPI*
 - Built a Random Forest classifier to predict vehicle battery health from voltage, current, temperature, age, and internal resistance
 - Developed a FastAPI backend with an interactive prediction dashboard for real-time inference
 
-> 💡 *Replace the `#` links above with your actual GitHub repo URLs.*
 
 ---
 
@@ -119,11 +118,10 @@
 
 <p align="left">
   <a href="mailto:nitin.y2309@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nitin-yadav-623b7a276/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Nitin-2807"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/nitin_y2807/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 </p>
 
-> 💡 *Replace the `#` links above with your actual LinkedIn, GitHub, and LeetCode profile URLs.*
 
 <p align="center"><i>📌 Rewari, Haryana, India</i></p>
